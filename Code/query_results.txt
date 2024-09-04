@@ -1,0 +1,76 @@
+Query 1:
+The sum of the total payments for all taxi rides:  330340892.9708117
+
+Query 2:
+The sum of the total payments for 2 is  61495.57000000009
+The sum of the total payments for 3 is  1035617.5400000106
+The sum of the total payments for 5 is  45020.85000000002
+The sum of the total payments for 6 is  47476.840000000026
+The sum of the total payments for 7 is  113.27
+The sum of the total payments for 8 is  21218263.000005223
+The sum of the total payments for 9 is  37160.200000000026
+The sum of the total payments for 10 is  5639657.199999628
+The sum of the total payments for 11 is  189.64000000000001
+The sum of the total payments for 12 is  68951.70000000007
+The sum of the total payments for 14 is  39641.50999999997
+The sum of the total payments for 15 is  36173.56
+The sum of the total payments for 17 is  55077.11000000004
+The sum of the total payments for 19 is  87381.19000000013
+The sum of the total payments for 20 is  26630.689999999973
+The sum of the total payments for 21 is  49397.95000000002
+The sum of the total payments for 26 is  23837.100000000002
+The sum of the total payments for 28 is  25441.760000000006
+The sum of the total payments for 31 is  69896.0200000001
+The sum of the total payments for 32 is  34704.41000000003
+The sum of the total payments for 35 is  61156.34000000007
+The sum of the total payments for 37 is  3128.0699999999997
+The sum of the total payments for 38 is  36962.91000000002
+The sum of the total payments for 42 is  68885.81000000019
+The sum of the total payments for 43 is  3333710.8699999116
+The sum of the total payments for 44 is  69218.11000000003
+The sum of the total payments for 51 is  38276.269999999975
+The sum of the total payments for 55 is  62324.83000000012
+The sum of the total payments for 57 is  44646.66000000002
+The sum of the total payments for 62 is  39447.75999999999
+The sum of the total payments for 63 is  49457.74000000006
+The sum of the total payments for 65 is  51015.230000000054
+The sum of the total payments for 68 is  1032059.3900000019
+The sum of the total payments for 72 is  43792.98999999997
+The sum of the total payments for 73 is  34397.74000000002
+The sum of the total payments for 74 is  56524.99000000003
+The sum of the total payments for 75 is  67644.80000000008
+The sum of the total payments for 76 is  35903.16999999997
+The sum of the total payments for 79 is  45247.40000000004
+The sum of the total payments for 80 is  56476.990000000136
+The sum of the total payments for 82 is  7816315.779999333
+The sum of the total payments for 85 is  119.45
+The sum of the total payments for 89 is  72878.68000000002
+The sum of the total payments for 90 is  3504771.610000001
+The sum of the total payments for 91 is  12932.589999999998
+The sum of the total payments for 92 is  4865292.869999743
+The sum of the total payments for 97 is  92601.68000000002
+The sum of the total payments for 99 is  18418.109999999997
+The sum of the total payments for 101 is  28505380.580007646
+The sum of the total payments for 102 is  70452.4
+The sum of the total payments for 103 is  72430.12000000004
+The sum of the total payments for 106 is  39018.11999999996
+The sum of the total payments for 107 is  84868058.0599206
+The sum of the total payments for 109 is  19879618.160004444
+The sum of the total payments for 111 is  21262.849999999995
+The sum of the total payments for 115 is  50674.53000000006
+The sum of the total payments for 116 is  8500.25
+The sum of the total payments for 118 is  97099.83000000018
+The sum of the total payments for 119 is  20135935.9500044
+The sum of the total payments for  is  126376726.17016281
+
+Query 3:
+The sum of the total payments that were paid in cash:  130255602.06000376
+
+Query 4:
+The names of the taxi drivers who work for company 11:  MARBLES
+The names of the taxi drivers who work for company 11:  ROLLIE
+The names of the taxi drivers who work for company 11:  VICTORY
+The names of the taxi drivers who work for company 11:  GERRY
+The names of the taxi drivers who work for company 11:  STYLES
+The names of the taxi drivers who work for company 11:  S'MORE
+The names of the taxi drivers who work for company 11:  BLUE-GOTTI
